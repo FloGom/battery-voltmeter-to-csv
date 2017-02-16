@@ -13,11 +13,12 @@ This program has been created to measure and store fastly the voltage of more th
 * an Arduino (Uno for example)
 * a USB cable to link the computer to the Arduino
 * a Python working environnement
+* some batteries to measure
 
 => then download the code!!!
 
 ## How to use it:
-0. Put a wire beteen D2 and 5V on the Arduino.
+0. Put a wire between D2 and 5V on the Arduino.
 1. Edit the parameters :
 ```python
 port = str(6)
