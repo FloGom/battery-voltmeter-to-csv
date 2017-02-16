@@ -19,7 +19,7 @@ from os import getcwd
 port = str(6)
 vitesse = 9600
 caracFin = "stop"
-cheminFichier = "H4WDB_statsPiles_170216_AAA_test.csv"
+cheminFichier = "pathToMyFile.csv"
 
 # initialisation du port série
 ser = serial.Serial('COM' + port, vitesse)
