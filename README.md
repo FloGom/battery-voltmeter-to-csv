@@ -27,7 +27,7 @@ caracFin = "stop"
 cheminFichier = "pathToMyFile.csv"
 ```
 2. Launch the Python script.
-3. Use probes (a couple of wires works great) to measure the voltage across the batteries. The values must appear in the Python console. When it's the case you can measure the following battery.
+3. Use probes plugged into A0 and Gnd (a couple of wires works great) to measure the voltage across the batteries. The values must appear in the Python console. When it's the case you can measure the following battery.
 4. When you have finished, unplug the wire on D2. The Python script should quit itself.
 5. Open your .csv file with your favorite spreadsheet.
 
